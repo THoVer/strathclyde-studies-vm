@@ -1,0 +1,5 @@
+1	This is a very good movie.
+1	The movie is just super!
+0	Films adapted from comic books have had plenty of success  
+-1	Absolutely bad movie! 
+-1	This movie was terrible! 

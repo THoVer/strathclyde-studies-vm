@@ -1,0 +1,5 @@
+{
+    "pddlParser.executableOrService": "/home/ubuntu/Documents/University/CS310 Foundations of Artificial Intelligence/ff",
+    "pddlParser.executableOptions": "$(parser) -o $(domain) -f $(problem)",
+    "pddlPlanner.executableOrService": "http://solver.planning.domains/solve"
+}

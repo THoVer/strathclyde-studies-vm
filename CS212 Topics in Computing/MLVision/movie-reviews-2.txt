@@ -1,0 +1,5 @@
+-2	the film is not good. It is bad.
+2	a good film based on a good plot.
+0	it concentrates on the good deeds of the man
+1	not all that bad either.
+-1	a very cool idea , but presents it in a very bad package. 
